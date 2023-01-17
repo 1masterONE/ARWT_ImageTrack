@@ -1,6 +1,6 @@
 {
 "companyName": "EVO4",
-"productName": "Car_ARWT",
+"productName": "ARWT",
 "productVersion": "0.1",
 "dataUrl": "ARWT_ImageTrack.data.unityweb",
 "wasmCodeUrl": "ARWT_ImageTrack.wasm",
@@ -10,7 +10,7 @@
 "splashScreenStyle": "Dark",
 
 "cacheControl": {"default": "must-revalidate"},
-"developmentBuild": false,
+"developmentBuild": true,
 "multithreading": false,
 "unityVersion": "2019.4.40f1"
 }
